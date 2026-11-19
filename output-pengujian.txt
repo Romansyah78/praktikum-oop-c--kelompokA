@@ -1,0 +1,136 @@
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: === DAFTAR ALAT LABORATORIUM ===
+[1]
+Nama     : Mikroskop
+Kategori : Optik
+Jumlah   : 5
+--------------------------------
+[2]
+Nama     : Tabung Reaksi
+Kategori : Gelas
+Jumlah   : 40
+--------------------------------
+[3]
+Nama     : Multimeter
+Kategori : Elektronik
+Jumlah   : 8
+--------------------------------
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: Nama alat     : Kategori      : Jumlah awal    : [OK] Alat Termometer berhasil ditambahkan.
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: Nama alat     : Kategori      : Jumlah awal    : [GAGAL] Alat dengan nama tersebut sudah ada (cegah data duplikat).
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: Nama alat     : Jumlah        : [OK] Stok Mikroskop bertambah 4. Stok sekarang: 9
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: Nama alat     : Jumlah        : [OK] Stok Multimeter berkurang 3. Stok sekarang: 5
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: Nama alat     : Jumlah        : [GAGAL] Stok Multimeter tidak cukup (tersedia 5).
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: Nama alat     : Jumlah        : [GAGAL] Jumlah penambahan harus lebih dari 0.
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: Nama alat     : Nama     : Mikroskop
+Kategori : Optik
+Jumlah   : 9
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: === DAFTAR ALAT LABORATORIUM ===
+[1]
+Nama     : Mikroskop
+Kategori : Optik
+Jumlah   : 9
+--------------------------------
+[2]
+Nama     : Tabung Reaksi
+Kategori : Gelas
+Jumlah   : 40
+--------------------------------
+[3]
+Nama     : Multimeter
+Kategori : Elektronik
+Jumlah   : 5
+--------------------------------
+[4]
+Nama     : Termometer
+Kategori : Gelas
+Jumlah   : 12
+--------------------------------
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: Menu tidak valid.
+
+===== MENU INVENTARIS LABORATORIUM =====
+1. Tampilkan semua alat
+2. Tambah alat baru
+3. Tambah jumlah stok alat
+4. Kurangi jumlah stok alat
+5. Tampilkan info satu alat
+0. Keluar
+Pilih menu: Program selesai.
